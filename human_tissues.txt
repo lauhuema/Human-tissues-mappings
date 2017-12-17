@@ -1,0 +1,168 @@
+adipose tissue
+adrenal gland
+amygdala
+aorta
+artery
+atrium auricular region
+B cell
+basal ganglion
+bile duct
+blood
+bone marrow
+bone tissue
+brain
+brain fragment
+brain meninx
+breast
+Brodmann (1909) area 24
+Brodmann (1909) area 9
+bronchus
+C1 segment of cervical spinal cord
+caecum
+cartilage tissue
+caudate nucleus
+CD4-positive T cell
+CD8-positive T cell
+cerebellar hemisphere
+cerebellum
+cerebral cortex
+cervix, uterine
+chordate pharynx
+choroid plexus
+colon
+connective tissue
+coronary artery
+cortex of kidney
+diaphragm
+diencephalon
+diencephalon and midbrain
+dorsal thalamus
+duodenum
+dura mater
+EBV-transformed lymphocyte
+ectocervix
+embryo
+endocervix
+endometrium
+epididymis
+epithelium of bronchus
+esophagogastric junction
+esophagus
+esophagus mucosa
+esophagus muscularis mucosa
+eye
+fallopian tube
+forebrain
+forebrain and midbrain
+forebrain fragment
+frontal cortex
+frontal lobe
+gall bladder
+globus pallidus
+greater omentum
+heart
+heart left ventricle
+heart muscle
+hindbrain
+hindbrain fragment
+hindbrain without cerebellum
+hippocampal formation
+hippocampus
+hippocampus proper
+hypothalamus
+ileum
+kidney
+large intestine
+left cardiac atrium
+left kidney
+left renal cortex
+left renal pelvis
+leukocyte
+liver
+locus ceruleus
+lower leg skin
+lung
+lymph node
+mammary gland
+medulla oblongata
+midbrain
+middle frontal gyrus
+middle temporal gyrus
+minor salivary gland
+mitral valve
+monocyte
+mouth mucosa
+mucosa
+muscle of arm
+muscle of leg
+musculature
+nasal septum
+nasopharynx
+natural killer cell
+nucleus accumbens
+occipital cortex
+occipital lobe
+olfactory apparatus
+oral cavity
+oral mucosa
+ovary
+pancreas
+parathyroid gland
+parietal lobe
+parotid gland
+penis
+pineal body
+pituitary and diencephalon
+pituitary gland
+placenta
+platelet
+pleura
+pons
+prefrontal cortex
+prostate gland
+pulmonary valve
+putamen
+rectum
+renal pelvis
+retina
+right renal cortex
+right renal pelvis
+saliva-secreting gland
+seminal vesicle
+sigmoid colon
+skeletal muscle of trunk
+skeletal muscle organ
+skeletal muscle tissue
+small intestine
+small intestine Peyer's patch
+smooth muscle tissue
+spinal cord
+spleen
+stomach
+subcutaneous adipose tissue
+submandibular gland
+substantia nigra
+suprapubic skin
+telencephalic ventricle
+telencephalon
+temporal lobe
+testis
+throat
+thymus
+thyroid gland
+tibial artery
+tibial nerve
+tongue
+tonsil
+trachea
+transformed skin fibroblast
+transverse colon
+tricuspid valve
+umbilical cord
+urinary bladder
+uterine cervix
+uterus
+vagina
+vas deferens
+vermiform appendix
+zone of skin
