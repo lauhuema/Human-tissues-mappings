@@ -1,0 +1,40 @@
+biliary tree
+bladder
+blood
+brain
+breast
+colon
+connective tissue
+embryo
+endocrine gland
+esophagogastric junction
+esophagus
+exocrine gland
+heart
+immune organ
+intestine
+kidney
+liver
+lung
+meninx
+mucosa
+musculature
+nerve
+oral cavity
+oral gland
+pancreas
+peritoneum
+pharynx
+pleura
+reproductive structure
+sense organ
+skeletal element
+skin of body
+spinal cord
+spleen
+stomach
+throat
+tongue
+tracheobronchial tree
+umbilical cord
+vasculature
