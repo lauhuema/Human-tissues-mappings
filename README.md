@@ -9,7 +9,7 @@ grep 'organism part' $ATLAS_EXPS/assaygroupsdetails.tsv | grep factor | awk -F"\
 The file `human_tissues.txt` contains only the subset of human tissues included in baseline expression experiments in Expression Atlas.
 
 ## Annotation of human tissues to ontologies
-Each of the human tissues included in baseline expression experiments in Expression Atlas is annotated to ontology terms using [Zooma][2, developed by the [Samples, Phenotypes and Ontologies Team][3] at [EMBL-EBI][4].
+Each of the human tissues included in baseline expression experiments in Expression Atlas is annotated to ontology terms using [Zooma][2], developed by the [Samples, Phenotypes and Ontologies Team][3] at [EMBL-EBI][4].
 
 ## Mapping human tissues to organs
 Each of the human tissues included in baseline expression experiments in Expression Atlas has been manually mapped to organs based on the hierarchy of [Uber-anatomy ontology, UBERON][5] when possible.
