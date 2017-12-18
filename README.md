@@ -4,7 +4,7 @@ Ontology annotation of all tissues included in [Expression Atlas][1] baseline ex
 ## Human tissues
 The subset of tissues included in baseline expression experiments in Expression Atlas can be retrieved from the file `assaygroupsdetails.tsv` at `/ebi/ftp/pub/databases/microarray/data/atlas/experiments/` using the following:
 ```
-grep 'organism part' $ATLAS_EXPS/assaygroupsdetails.tsv | grep factor | awk -F"\t" '{print $5}' | sort | uniq
+grep 'organism part' /ebi/ftp/pub/databases/microarray/data/atlas/experiments/assaygroupsdetails.tsv | grep factor | awk -F"\t" '{print $5}' | sort | uniq
 ```
 The file `human_tissues.txt` contains only the subset of human tissues included in baseline expression experiments in Expression Atlas.
 
